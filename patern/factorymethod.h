@@ -1,0 +1,5 @@
+#ifndef FACTORYMETHOD
+#define FACTORYMETHOD
+
+#endif // FACTORYMETHOD
+
