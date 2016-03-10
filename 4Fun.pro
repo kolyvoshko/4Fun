@@ -10,7 +10,8 @@ SOURCES += main.cpp \
     taimer.cpp \
     multithread/threadpool.cpp \
     multithread/worker.cpp \
-    container/linked_list.cpp
+    container/linked_list.cpp \
+    algorithm/nrand.cpp
 
 HEADERS += \
     taimer.h \
@@ -23,5 +24,6 @@ HEADERS += \
     patern/singleton.h \
     container/linked_list.h \
     patern/state.h \
-    patern/factorymethod.h
+    patern/factorymethod.h \
+    algorithm/nrand.h
 
