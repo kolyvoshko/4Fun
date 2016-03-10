@@ -22,5 +22,6 @@ HEADERS += \
     algorithm/find_max.h \
     patern/singleton.h \
     container/linked_list.h \
-    patern/state.h
+    patern/state.h \
+    patern/factorymethod.h
 
