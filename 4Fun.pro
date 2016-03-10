@@ -21,5 +21,6 @@ HEADERS += \
     multithread/worker.h \
     algorithm/find_max.h \
     patern/singleton.h \
-    container/linked_list.h
+    container/linked_list.h \
+    patern/state.h
 
