@@ -4,9 +4,9 @@
 #include <list>
 #include <cstdlib>
 
-//#include "singleton.h"
+//#include "patern/singleton.h"
 #include "taimer.h"
-//#include "find_max.h"
+//#include "algorithm/find_max.h"
 //#include "virtual_inheritance.h"
 
 
